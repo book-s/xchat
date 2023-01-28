@@ -1,0 +1,19 @@
+{
+  "name": "xchat",
+  "version": "1.0.0",
+  "description": "xchat",
+  "main": "index.js",
+  "repository": "www.xchat.run",
+  "author": "xchat",
+  "license": "MIT",
+  "private": null,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "server": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.41",
+    "vue": "^3.2.45"
+  }
+}
