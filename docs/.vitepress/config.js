@@ -5,6 +5,7 @@ export default {
     titleTemplate: 'Open secure private connection',
     // 主题和它的配置
     theme: '@vuepress/theme-default',
+    base:'/xchat',
     themeConfig: {
     //    logo: 'https://vuejs.org/images/logo.png',
         nav:nav(),
